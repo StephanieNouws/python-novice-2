@@ -4,4 +4,4 @@ list the files:
 - data/*csv
 - scripts/utils.py
 
-By Bas Berbers
+By Bas Berbers the Dutch
