@@ -4,4 +4,4 @@ list the files:
 - data/*csv
 - scripts/utils.py
 
-By Bas Berbers the Dutch living in Belgium
+By Bas Berbers, the 2 year old the Dutch living in Belgium
